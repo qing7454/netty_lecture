@@ -1,0 +1,10 @@
+.idea/
+.gradle/
+src/**/*.iml
+*.war
+*.iml
+out/
+#.idea/
+#build/
+#.gradle/
+#out/

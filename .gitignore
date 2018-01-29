@@ -8,3 +8,5 @@ out/
 #build/
 #.gradle/
 #out/
+.gradle/4.2.1/fileHashes/fileHashes.bin
+.gradle/4.2.1/fileHashes/fileHashes.lock

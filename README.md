@@ -10,4 +10,4 @@ Protocol Buffers 是一种轻便高效的结构化数据存储格式，可以用
 [下载protobuf地址](http://code.google.com/p/protobuf/downloads/list)
 
 
----也可以参考IBM上的一个例子：https://www.ibm.com/developerworks/cn/linux/l-cn-gpb/index.html
+[可以参考IBM上的一个例子](https://www.ibm.com/developerworks/cn/linux/l-cn-gpb/index.html)

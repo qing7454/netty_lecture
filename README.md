@@ -1,5 +1,5 @@
 # netty_lecture
-###my netty learning project
+### my netty learning project
 ``using google protobuf and apache thrift to call remote programe process``
 ## **Note**
 什么是 Google Protocol Buffer？ 假如您在网上搜索，应该会得到类似这样的文字介绍：
